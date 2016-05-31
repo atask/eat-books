@@ -1,0 +1,24 @@
+{
+  "name": "eat-books",
+  "version": "0.1.0",
+  "description": "Extract books meta info from it-ebooks.info",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "standard": "standard index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/atask/eat-books.git"
+  },
+  "author": "ᴉuᴉɥɔsɐʇ uɐllɐ <allan.taschini@gmail.com>",
+  "license": "ISC",
+  "homepage": "https://github.com/atask/eat-books#readme",
+  "devDependencies": {
+    "standard": "^7.0.1"
+  },
+  "dependencies": {
+    "common-tags": "^1.2.0",
+    "swearing": "^1.0.0"
+  }
+}
